@@ -83,12 +83,12 @@ google_analytics: G-4X1DYX8E79
 author:
   name             : "Moumita Dey"
   avatar           : "profile.png"
-  bio              : "Researcher at AMD Research"
-  location         : "Santa Clara, California"
+  bio              : "Researcher <br> Member of Technical Staff <br> <b>AMD Research and Advanced Development</b>"
+  location         : "San Jose, California"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=o7Vjip0AAAAJ&hl=en"
-  email            :
+  email            : "moumita.dey@amd.com, moumita.md.dey@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
